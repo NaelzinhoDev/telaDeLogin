@@ -3,8 +3,10 @@
 Uma tela de login moderna e estilizada desenvolvida em **HTML** e **CSS**, com foco em **design limpo, responsivo e envolvente**.  
 Este projeto foi criado para praticar habilidades front-end, utilizando **tons de azul e branco** em um layout inspirado em interfaces de jogos, transmitindo tecnologia e imersão visual.
 
-![Badge](https://img.shields.io/badge/Status-Concluído-green) <!-- Ou Em Desenvolvimento, ou outro status -->
-![Badge](https://img.shields.io/badge/Tecnologias-HTML%2FCSS-blue) <!-- Tecnologias usadas -->
+![Badge](https://img.shields.io/badge/Status-[CONCLUÍDO%20ou%20EM%20DESENVOLVIMENTO]-[COR])  
+![Badge](https://img.shields.io/badge/Tecnologias-[HTML%2C%20CSS%2C%20JS]-blue)  
+![Badge](https://img.shields.io/badge/Versão-1.0.0-lightgrey)  
+![Badge](https://img.shields.io/badge/Responsivo-Sim-success) <!-- Tecnologias usadas -->
 
 ---
 
