@@ -3,11 +3,14 @@
 Uma tela de login moderna e estilizada desenvolvida em **HTML** e **CSS**, com foco em **design limpo, responsivo e envolvente**.  
 Este projeto foi criado para praticar habilidades front-end, utilizando **tons de azul e branco** em um layout inspirado em interfaces de jogos, transmitindo tecnologia e imersão visual.
 
+![Badge](https://img.shields.io/badge/Status-Concluído-green) <!-- Ou Em Desenvolvimento, ou outro status -->
+![Badge](https://img.shields.io/badge/Tecnologias-HTML%2FCSS-blue) <!-- Tecnologias usadas -->
+
 ---
 
 ## 🖥️ Demonstração
 
-👉 [Clique aqui para ver o projeto ao vivo](https://seu-link-deploy.com)
+👉 [Clique aqui para ver o projeto ao vivo](https://tela-de-login-zeta-one.vercel.app/)
 
 ---
 
