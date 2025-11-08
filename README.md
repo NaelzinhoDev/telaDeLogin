@@ -7,7 +7,7 @@ Este projeto foi criado para praticar habilidades front-end, utilizando **tons d
 
 ## 🖥️ Demonstração
 
-👉 [Clique aqui para ver o projeto ao vivo](https://[seu-lin](https://tela-de-login-zeta-one.vercel.app/)k-deploy.com) *(adicione o link assim que hospedar o site)*
+👉 [Clique aqui para ver o projeto ao vivo](https://seu-link-deploy.com)
 
 ---
 
